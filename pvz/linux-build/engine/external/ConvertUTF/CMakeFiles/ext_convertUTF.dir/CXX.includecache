@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dapeng/Documents/code/demos/cocos-demos/pvz/cocos2d/external/ConvertUTF/ConvertUTF.h
+stddef.h
+-
+vector
+-
+string
+-
+
+/home/dapeng/Documents/code/demos/cocos-demos/pvz/cocos2d/external/ConvertUTF/ConvertUTFWrapper.cpp
+ConvertUTF.h
+/home/dapeng/Documents/code/demos/cocos-demos/pvz/cocos2d/external/ConvertUTF/ConvertUTF.h
+string
+-
+vector
+-
+stdint.h
+-
+assert.h
+-
+memory.h
+-
+

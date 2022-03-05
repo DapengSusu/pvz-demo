@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dapeng/Documents/code/demos/cocos-demos/pvz/cocos2d/external/clipper/clipper.cpp
+clipper.hpp
+/home/dapeng/Documents/code/demos/cocos-demos/pvz/cocos2d/external/clipper/clipper.hpp
+cmath
+-
+vector
+-
+algorithm
+-
+stdexcept
+-
+cstring
+-
+cstdlib
+-
+ostream
+-
+functional
+-
+
+/home/dapeng/Documents/code/demos/cocos-demos/pvz/cocos2d/external/clipper/clipper.hpp
+vector
+-
+set
+-
+stdexcept
+-
+cstring
+-
+cstdlib
+-
+ostream
+-
+functional
+-
+

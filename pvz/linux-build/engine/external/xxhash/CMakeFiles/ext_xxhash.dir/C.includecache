@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dapeng/Documents/code/demos/cocos-demos/pvz/cocos2d/external/xxhash/xxhash.c
+xxhash.h
+/home/dapeng/Documents/code/demos/cocos-demos/pvz/cocos2d/external/xxhash/xxhash.h
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+
+/home/dapeng/Documents/code/demos/cocos-demos/pvz/cocos2d/external/xxhash/xxhash.h
+

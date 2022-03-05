@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dapeng/Documents/code/demos/cocos-demos/pvz/cocos2d/external/ConvertUTF/ConvertUTF.c
+ConvertUTF.h
+/home/dapeng/Documents/code/demos/cocos-demos/pvz/cocos2d/external/ConvertUTF/ConvertUTF.h
+stdio.h
+-
+string.h
+-
+
+/home/dapeng/Documents/code/demos/cocos-demos/pvz/cocos2d/external/ConvertUTF/ConvertUTF.h
+stddef.h
+-
+vector
+-
+string
+-
+
